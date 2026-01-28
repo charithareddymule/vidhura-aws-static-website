@@ -17,10 +17,6 @@ This repository documents the deployment of the VIDHURA static website on AWS us
 4. Uploaded VIDHURA website files
 5. Configured bucket policy to allow public read access
 6. Verified deployment using the S3 website endpoint
-
-## Live Deployments
-- GitHub Pages: https://your-github-pages-link
-- AWS S3 Website: http://your-bucket-name.s3-website-region.amazonaws.com
-
+   
 ## Proof of Deployment
 Screenshots of the AWS configuration and live website are provided in the screenshots folder.
